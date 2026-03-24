@@ -1,0 +1,79 @@
+1. Write a program that takes a number (1–3) and prints the corresponding day (1=Monday, 2=Tuesday, 3=Wednesday).
+
+2. Take a character input and match vowels (a, e, i, o, u) to print "Vowel", otherwise "Consonant".
+
+3. Input a traffic signal color ("red", "yellow", "green") and print the action.
+
+4. Match a number (1–7) and print the weekday name.
+
+5. Input a number (1–12) and print the month name.
+
+6. Match a single digit (0–9) and print its word form (e.g., 1 = One).
+
+7. Take a grade (A, B, C, D, F) and print performance message. 
+
+8. Input an operator (+, -, *, /) and print the operation name.
+
+9. Match a shape name ("circle", "square", "triangle") and print number of sides.
+
+10. Input a fruit name and match it to its color (apple, banana, orange).
+
+11. Take a number (1–4) and print Roman numeral equivalent.
+
+12. Match a temperature range category ("cold", "warm", "hot") and print advice.
+
+13. Input a browser name (chrome, firefox, edge) and print company name.
+
+14. Match a continent name and print a major country from it.
+
+15. Input a pet animal ("dog", "cat", "fish") and print sound it makes.
+
+16. Match a direction ("north", "south", "east", "west") and print opposite direction.
+
+17. Input a programming language and print its type (compiled/interpreted).
+
+18. Match a number (1–5) and print star pattern (e.g., 3 -> ***).
+
+19. Input a currency (USD, INR, EUR) and print country.
+
+20. Match a sports name (cricket, football, tennis) and print number of players.
+
+21. Input a day type ("weekday", "weekend") and print activity suggestion.
+
+22. Match a vehicle type ("car", "bike", "bus") and print wheels count.
+
+23. Input a season ("summer", "winter", "rainy") and print typical temperature.
+
+24. Match a file extension (".py", ".txt", ".jpg") and print file type.
+
+25. Input a login role ("admin", "user", "guest") and print access level.
+
+26. Match a number (even digits explicitly: 0,2,4,6,8) and print "Even", otherwise "Odd".
+
+27. Input a city name and match it to its country.
+
+28. Match a password strength keyword ("weak", "medium", "strong") and print advice.
+
+29. Input a school level ("primary", "secondary", "college") and print age group.
+
+30. Match a command ("start", "stop", "pause") and print system response.
+
+31. Input a number (1–5) and print its square value (e.g., 2 → 4).
+
+32. Match a letter grade (O, A+, A, B+, B) and print corresponding GPA value.
+
+33. Input a meal time ("breakfast", "lunch", "dinner") and print a typical dish.
+
+34. Match a device type ("mobile", "laptop", "tablet") and print its primary use.
+
+35. Input a weather condition ("sunny", "cloudy", "rainy", "stormy") and print advice.
+
+36. Match a subject ("math", "science", "history") and print a related keyword.
+
+37. Input a transport mode ("train", "flight", "ship") and print travel type (land/air/water).
+
+38. Match a number (1–3) and print its multiplication table result for 5 (e.g., 2 → 10).
+
+39. Input a social media app name and print its category (messaging/photo/video).
+
+40. Match a boolean input ("true", "false") and print its opposite value.
